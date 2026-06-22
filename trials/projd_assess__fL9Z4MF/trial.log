@@ -1,4 +1,0 @@
-Skipping image OS validation for hb__log-report: docker inspect returned 1
-Collecting main service artifacts
-Skipping image OS validation for hb__log-report: docker inspect returned 1
-Trial projd_assess__fL9Z4MF failed: No reward file found at trials\projd_assess__fL9Z4MF\verifier\reward.txt or trials\projd_assess__fL9Z4MF\verifier\reward.json
