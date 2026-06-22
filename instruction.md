@@ -1,4 +1,4 @@
-﻿Read the access log at `/app/access.log` and write a report to `/app/report.json`.
+Read the access log at `/app/access.log` and write a report to `/app/report.json`.
 
 Success criteria:
 

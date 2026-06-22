@@ -6,4 +6,5 @@ RUN pip install --no-cache-dir \
 
 COPY . /tests/
 
-RUN mkdir -p /app /logs/verifier
+RUN chmod +x /tests/test.sh \
+    && mkdir -p /app /logs/verifier
